@@ -19,4 +19,4 @@ This project utilizes the following technologies and libraries:
 [DEMO LINK](https://izzetyusufov.github.io/Phones-catalog-store/)
 
 ## Design Mockup Link
-[this design](https://www.figma.com/file/uEetgWenSRxk9jgiym6Yzp/Phone-catalog-redesign?type=design&node-id=1-2&mode=design)
+[Design link](https://www.figma.com/file/uEetgWenSRxk9jgiym6Yzp/Phone-catalog-redesign?type=design&node-id=1-2&mode=design)
