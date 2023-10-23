@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "./static/css/main.61b3d7bd.chunk.css",
+    "main.js": "./static/js/main.9d766529.chunk.js",
+    "main.js.map": "./static/js/main.9d766529.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.9db6865f.js",
+    "runtime-main.js.map": "./static/js/runtime-main.9db6865f.js.map",
+    "static/js/2.0e0b66ac.chunk.js": "./static/js/2.0e0b66ac.chunk.js",
+    "static/js/2.0e0b66ac.chunk.js.map": "./static/js/2.0e0b66ac.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.61b3d7bd.chunk.css.map": "./static/css/main.61b3d7bd.chunk.css.map",
+    "static/js/2.0e0b66ac.chunk.js.LICENSE.txt": "./static/js/2.0e0b66ac.chunk.js.LICENSE.txt",
+    "static/media/NotFoundPage.scss": "./static/media/404Error.ea0e6193.png",
+    "static/media/AccessoriesCategory.fcfc0e03.jpg": "./static/media/AccessoriesCategory.fcfc0e03.jpg",
+    "static/media/CartCard.scss": "./static/media/Plus.60b4bc00.svg",
+    "static/media/ButtonAndLike.scss": "./static/media/Favourites.341c6a64.svg",
+    "static/media/Breadcrumbs.scss": "./static/media/arrow-right-gray.a374b573.svg",
+    "static/media/App.scss": "./static/media/arrow-up.470683b8.svg",
+    "static/media/Navbar.scss": "./static/media/bag.89133a0a.svg",
+    "static/media/ProductList.scss": "./static/media/arrow-up-gray.1ea6958a.svg",
+    "static/media/TitleOfPage.scss": "./static/media/arrow-left.134598a3.svg",
+    "static/media/banner-accessories.bdd2e0fc.png": "./static/media/banner-accessories.bdd2e0fc.png",
+    "static/media/banner-phones.b4eeda8b.png": "./static/media/banner-phones.b4eeda8b.png",
+    "static/media/banner-tablets.a962057c.png": "./static/media/banner-tablets.a962057c.png",
+    "static/media/CommingSoonPage.scss": "./static/media/comming-soon.5abd2bd8.png",
+    "static/media/NoSearchResults.scss": "./static/media/no-result.6c627e7b.png",
+    "static/media/phonesCategory.a00f2a53.jpg": "./static/media/phonesCategory.a00f2a53.jpg",
+    "static/media/tabletsCategory.d9570974.jpg": "./static/media/tabletsCategory.d9570974.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9db6865f.js",
+    "static/js/2.0e0b66ac.chunk.js",
+    "static/css/main.61b3d7bd.chunk.css",
+    "static/js/main.9d766529.chunk.js"
+  ]
+}
