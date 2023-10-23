@@ -9,7 +9,6 @@ type Props = {
   isLoading?: boolean,
   isError?: boolean,
   backArrow: boolean,
-  prevSearchParam?: string,
 };
 
 export const TitleOfPage: React.FC<Props> = ({

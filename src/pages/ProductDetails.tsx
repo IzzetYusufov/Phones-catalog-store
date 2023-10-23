@@ -85,7 +85,6 @@ export const ProductDetails: React.FC = () => {
           <div className="page__section">
             <TitleOfPage
               title={phone.name}
-              prevSearchParam={state?.prevSearchParam}
               backArrow={isArrow.current}
             />
           </div>
